@@ -41,6 +41,6 @@ Trust your own measurements, not this README. Prices, model ids, and endpoints
 change — verify against current provider docs.
 
 Companion tool: [ai-api-cost](https://github.com/cocodot2026/ai-api-cost) ·
-verifier: [LLMprobe](https://github.com/cocodot2026/LLMprobe).
+verifier: [cocodot-llmprobe](https://github.com/cocodot2026/cocodot-llmprobe).
 
 MIT.

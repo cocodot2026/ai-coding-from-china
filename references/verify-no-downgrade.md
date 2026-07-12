@@ -45,7 +45,7 @@ you celebrate. Also compare the response's `usage` token count to your local
 tokenizer — over-reported usage is billing inflation.
 
 ## Or automate it: LLMprobe (open source)
-[LLMprobe](https://github.com/cocodot2026/LLMprobe) runs 6 probes (identity,
+[cocodot-llmprobe](https://github.com/cocodot2026/cocodot-llmprobe) runs 6 probes (identity,
 capability with an LLM judge, latency, context, rate-limit, consistency) against any
 OpenAI-compatible endpoint and prints a 0–100 score. Key stays on your machine;
 code is auditable.
