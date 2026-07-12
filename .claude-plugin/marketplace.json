@@ -1,0 +1,17 @@
+{
+  "name": "ai-coding-from-china",
+  "owner": {
+    "name": "cocodot"
+  },
+  "metadata": {
+    "description": "Get AI coding tools working from mainland China — configure, verify no downgrade, cut cost. Honest and vendor-neutral.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-coding-from-china",
+      "source": "./",
+      "description": "Pick an access path (official / relay / self-host), point Claude Code / Cursor / Cline at it, verify you're getting the real model, and split big/small models to save money."
+    }
+  ]
+}

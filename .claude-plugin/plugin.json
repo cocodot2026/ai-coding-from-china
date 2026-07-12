@@ -1,0 +1,20 @@
+{
+  "name": "ai-coding-from-china",
+  "version": "0.1.0",
+  "description": "Set up and verify AI coding tools (Claude Code, Cursor, Cline, Codex) from mainland China — pick an access path, configure it, verify you're getting the real model (not a silent downgrade), and cut cost. Vendor-neutral; verify everything yourself.",
+  "author": {
+    "name": "cocodot"
+  },
+  "homepage": "https://github.com/cocodot2026/ai-coding-from-china",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "cursor",
+    "cline",
+    "api-relay",
+    "china",
+    "openai-compatible",
+    "anthropic",
+    "model-verification"
+  ]
+}
