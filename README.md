@@ -34,7 +34,7 @@ skill triggers on prompts like *"Claude Code 用不了 / 付不了"*, *"Cursor �
 
 ## Honesty & disclosure
 
-The author builds **[cocodot](https://cocodot.co)**, an AI API relay — it appears
+The author builds **[cocodot](https://cocodot.co?utm_source=github&utm_medium=readme&utm_campaign=ai-coding-from-china)**, an AI API relay — it appears
 as one *disclosed* example where a real endpoint is useful. **Every method here is
 vendor-neutral and works against any endpoint, including testing cocodot itself.**
 Trust your own measurements, not this README. Prices, model ids, and endpoints
